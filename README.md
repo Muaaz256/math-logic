@@ -1,2 +1,3 @@
-# latex-templates
-templates of latex documents
+# Notes on Mathematical Logic
+
+Please, study and enjoy.
